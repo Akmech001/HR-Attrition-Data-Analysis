@@ -4,7 +4,8 @@ This project involves analyzing HR attrition data using Tableau. The goal is to 
 
 ### Dashboard Overview
 
-![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
+![Uploading HR Analytics Dashboard.png…]()
+
 
 ### Key Metrics and Visualizations
 
