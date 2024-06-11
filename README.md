@@ -2,11 +2,6 @@
 
 This project involves analyzing HR attrition data using Tableau. The goal is to uncover insights regarding employee attrition, satisfaction, and demographic trends. The dashboard visualizes key metrics and trends to aid in understanding and addressing employee turnover.
 
-### Dashboard Overview
-
-![Uploading HR Analytics Dashboard.png…]()
-
-
 ### Key Metrics and Visualizations
 
 1. **Employee Count, Attrition Count, and Active Employees**
